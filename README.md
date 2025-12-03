@@ -1,4 +1,4 @@
 # Visualize-data-with-QuickSight
 AWS QuickSight
 
-![Architecture Diagram](Netfilx titles analysis.png)
+![Architecture Diagram](image/Netfilx titles analysis.png)
